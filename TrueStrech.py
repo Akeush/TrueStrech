@@ -117,7 +117,7 @@ class ValorantConfigManager:
 
         for folder in os.listdir(self.game_path):
             folder_path = os.path.join(self.game_path, folder)
-            ini_path = os.path.join(folder_path, 'Windows', 'GameUserSettings.ini')
+            ini_path = os.path.join(folder_path, 'WindowsClient', 'GameUserSettings.ini')
             if os.path.exists(ini_path):
                 config_files.append((folder, ini_path))
         return config_files
