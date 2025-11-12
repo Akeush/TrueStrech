@@ -2,6 +2,12 @@
 
 This script applies True Stretched resolution settings, priority adjustments, and account selection for the Valorant game on Windows.  
 
+# Tutorial 
+
+Thanks to Igosiek for making a video on it :
+
+https://www.youtube.com/watch?v=ltWu1KmqYTs
+
 ## Features  
 
 - **Resolution Adjustment:** Set a custom stretched resolution for Valorant.  
