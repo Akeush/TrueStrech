@@ -1,3 +1,7 @@
+> [!WARNING]
+> Method got patched waiting for a fix
+
+
 # True Stretched for Valorant  
 
 This script applies True Stretched resolution settings, priority adjustments, and account selection for the Valorant game on Windows.  
